@@ -1,0 +1,93 @@
+Part Specifications with Approved Suppliers
+
+111730  43mm x 20.0mm Mountain Over Columbia Woven Label with light starch
+UM: ea
+Fiber Content: unassigned
+Material Finish: Woven
+Trim Specific: Size UM: mm
+
+Supplier: Nexgen Packaging Global
+Art No: 111730
+Country: unassigned
+Standard Cost (FOB): 0.046
+Purchase Cost (CIF): 0.0
+Lead Time With Greige: 21
+Lead Time Without Greige: 28
+
+112296  Care Label Component
+UM: ea
+Fiber Content: 100% Polyester
+Material Finish: Sewn
+Trim Specific: Care instruction label
+
+Supplier: FGV - Madison 88 (MSO)
+Art No: 112296-MS
+Country: USA
+Standard Cost (FOB): 0.052
+Purchase Cost (CIF): 0.055
+Lead Time With Greige: 28
+Lead Time Without Greige: 35
+
+Supplier: FGV - MSO - PT Kewalram
+Art No: 112296-KE
+Country: Malaysia
+Standard Cost (FOB): 0.048
+Purchase Cost (CIF): 0.052
+Lead Time With Greige: 30
+Lead Time Without Greige: 38
+
+112296  Care Label Component (Duplicate to test multi-supplier handling)
+UM: ea
+Fiber Content: 100% Polyester
+Supplier: Avery Dennison Global
+Art No: 112296-AV
+Country: Global
+
+119723  Hangtag Component
+UM: ea
+Fiber Content: Cardboard
+Material Finish: Printed
+
+Supplier: Hangtag Supplier Co
+Art No: 119723-HT
+Country: China
+Standard Cost (FOB): 0.025
+Lead Time With Greige: 14
+Lead Time Without Greige: 21
+
+Color BOM
+
+Columbia Blue
+- Main Label: Center back, size 43mm x 20mm
+- Care Label: Sewn in side seam, size 8cm x 6cm
+- Hangtag: Thread through buttonhole
+SAP Material Code: CB-ML-001
+SAP Material Code: CB-CL-001
+SAP Material Code: CB-HT-001
+
+Black
+- Main Label: Center back, size 43mm x 20mm
+- Care Label: Sewn in side seam, size 8cm x 6cm
+- Hangtag: Thread through buttonhole
+SAP Material Code: BL-ML-001
+SAP Material Code: BL-CL-001
+SAP Material Code: BL-HT-001
+
+Navy
+- Main Label: Center back
+- Care Label: Sewn in side seam
+- Hangtag: Thread through buttonhole
+
+Measurements
+
+Chest Width: 52cm
+Sleeve Length: 65cm
+Back Length: 75cm
+Shoulder Width: 45cm
+Bicep Circumference: 36cm
+Hip Width: 54cm
+Neck Width: 40cm
+Unit: cm
+
+Size Variants: S, M, L, XL, XXL
+

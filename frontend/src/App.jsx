@@ -6,6 +6,7 @@ import {
 import toast from 'react-hot-toast'
 import Papa from 'papaparse'
 import * as XLSX from 'xlsx'
+import { ColumbiaSpecStep } from './components/ColumbiaSpecStep'
 
 function App() {
   const [currentStep, setCurrentStep] = useState(1)
@@ -30,7 +31,8 @@ function App() {
     { id: 4, title: 'Trim Summary', icon: Download },
     { id: 5, title: 'Tech Pack Entry', icon: FileText },
     { id: 6, title: 'Generate Pivot', icon: Download },
-    { id: 7, title: 'Review & Export', icon: Eye }
+    { id: 7, title: 'Review & Export', icon: Eye },
+    { id: 8, title: 'Columbia Spec Parser', icon: FileText }
   ]
 
   const saveWorkflow = () => {
@@ -175,6 +177,7 @@ function App() {
             {currentStep === 5 && <Step5TechPack workflowData={workflowData} setWorkflowData={setWorkflowData} />}
             {currentStep === 6 && <Step6GeneratePivot workflowData={workflowData} setWorkflowData={setWorkflowData} />}
             {currentStep === 7 && <Step7Review workflowData={workflowData} exportToExcel={exportToExcel} />}
+            {currentStep === 8 && <ColumbiaSpecStep />}
           </div>
 
           {/* Right Sidebar - Navigation */}

@@ -77,7 +77,7 @@ git commit -m "Initial commit: Trim Ordering Automation System"
 3. Click the **"+" icon** (top right)
 4. Select **"New repository"**
 5. Fill in details:
-   - **Repository name**: `trim-ordering-automation` (or your preferred name)
+   - **Repository name**: `purchasing-automation`
    - **Description**: "Automated trim ordering workflow system with React frontend and FastAPI backend"
    - **Visibility**: Choose Public or Private
    - **DO NOT** initialize with README, .gitignore, or license (we already have files)
